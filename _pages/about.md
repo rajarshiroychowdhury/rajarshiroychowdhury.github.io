@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>AES US Utilities</p>
+    <p>Office: AES US Utilities</p>
     <p>1065 Woodman Dr</p>
     <p>Dayton, OH 45432</p>
 
