@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Office Address:</p>
+    <p> Office Address: </p>
     <p>AES US Utilities</p>
     <p>1065 Woodman Dr</p>
     <p>Dayton, OH 45432</p>
@@ -21,11 +21,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there! This is Rajarshi (রাজর্ষি). I understand my name is difficult to pronounce, :smile: so feel free to chop everything after the first three letters and just call me Raj! By the way, if you are interested, the meaning of 'Rajarshi' loosely translates to 'a king who has characteristics of a saint'. 
+Hi there! This is Rajarshi (রাজর্ষি). I understand my name is difficult to pronounce, :smile: so feel free to chop everything after the first three letters and just call me Raj! By the way, if you are interested, the meaning of 'Rajarshi' in Bengali (বাংলা) loosely translates to 'a king who has characteristics of a saint'. 
 
-I work in the field of power system dynamics and control. Currently, I lead the T&D Advanced Studies team at AES Utilities and is also heavily involved in R&D activities with universities, national labs and other private companies. Before joining AES, I used to work at Ford Motor Company, in Dearborn MI as a Research Engineer where I helped to develop Ford's next-gen electrical architecture for some of its best selling global nameplates like F-150, and the Mustang Mach-E. 
+I am an industry expert in the field of power system dynamics and control. I have a decade of experience in power systems and advanced controls and had the opportunity to contribute to high-impact projects that had significant strategic importance. From developing control systems for airborne missiles to running complex power system dynamics and transient studies for grid reliability, I provide subject matter expertise to a wide variety of industry stakeholder groups including PJM, NERC and WECC. Currently, I lead the T&D Advanced Studies team at AES Utilities and is also heavily involved in R&D activities with universities, national labs and other private companies to test new technologies. Before joining AES, I worked at Ford Motor Company, in Dearborn, MI, as a Research Engineer where I helped to develop Ford's next-gen electrical architecture for some of its best selling global nameplates like F-150, and the Mustang Mach-E.
 
-Over the years, I have had the privilege of contributing to numerous groundbreaking projects in the field of power systems. From optimizing control strategies to mitigating disruptions caused by renewable energy integration, to developing advanced algorithms for real-time monitoring and prediction of system dynamics, my work is driven by a desire to enhance the efficiency, reliability, and sustainability of the bulk power systems. I provide subject matter expertise in a wide variety of industry bodies and working groups including PJM, NERC and WECC. 
 
 I firmly believe in the power of collaboration and interdisciplinary approaches. If you are an industry professional and wish to connect, for a technical webinar or pick my brain on a topic related to power systems, send me an email. If you're a student and would like to be mentored, please send me a detailed email on your research interests and your expectations from this mentorship. I have mentored many students at all levels from undergrads to postgrads and continue to receive mentorship requests. Since its impossible for me to accept all  a clearly written email with your research interests and goals will help me to understand if this is a collaboration worthwhile for both of us to pursue. 
 
