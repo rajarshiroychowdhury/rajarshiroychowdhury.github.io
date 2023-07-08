@@ -84,7 +84,13 @@
 <loc>https://rajarshiroychowdhury.me/</loc>
 </url>
 <url>
+<loc>https://rajarshiroychowdhury.me/awards/</loc>
+</url>
+<url>
 <loc>https://rajarshiroychowdhury.me/cv/</loc>
+</url>
+<url>
+<loc>https://rajarshiroychowdhury.me/_pages/dropdown.html</loc>
 </url>
 <url>
 <loc>https://rajarshiroychowdhury.me/news/</loc>
@@ -94,6 +100,12 @@
 </url>
 <url>
 <loc>https://rajarshiroychowdhury.me/publications/</loc>
+</url>
+<url>
+<loc>https://rajarshiroychowdhury.me/resources/</loc>
+</url>
+<url>
+<loc>https://rajarshiroychowdhury.me/talks/</loc>
 </url>
 <url>
 <loc>https://rajarshiroychowdhury.me/blog/tag/formatting/</loc>
@@ -151,6 +163,6 @@
 </url>
 <url>
 <loc>https://rajarshiroychowdhury.me/blog/</loc>
-<lastmod>2023-07-05T03:51:50+00:00</lastmod>
+<lastmod>2023-07-08T19:32:10+00:00</lastmod>
 </url>
 </urlset>
