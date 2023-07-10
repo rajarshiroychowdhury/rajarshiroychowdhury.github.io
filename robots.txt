@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rajarshiroychowdhury.me/sitemap.xml
+Sitemap: https://rajarshiroychowdhury.com/sitemap.xml
