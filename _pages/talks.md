@@ -130,12 +130,6 @@ giscus_comments: false
     </ul>
   </div>
 </div>
-
-
-
-
-
-
 <!-- IEEE IAS AM 2023-->
 <div class="card mt-3">
   <div class="p-3">
@@ -173,19 +167,6 @@ giscus_comments: false
     </ul>
   </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- Power Distribution iupui (Advanced Power System Distribution Modeling and Analysis) -->
 <div class="card mt-3">
   <div class="p-3">
