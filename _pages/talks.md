@@ -135,6 +135,57 @@ giscus_comments: false
 
 
 
+
+<!-- IEEE IAS AM 2023-->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 id="comp210" class="card-title">Time Series Power Flow for Transmission and Distribution Studies for a Future with High Renewable Penetration. </h5>
+        <h6 class="card-subtitle font-italic"> Panel Discussion at the IEEE-IAS Annual Meeting, Nashville, TN, Oct 29 - Nov 2, 2023</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          2023 
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            <!-- Co-Chaired the panel discussion along with Dr. Dongbo Zhao (EATON). -->
+          </div>
+          <div class="col-sm-3">
+          </div>
+        </div>
+      </li>
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+           Panelists include Rajarshi Roychowdhury, Hui Zhang(Director, New Emerging Technologies, AES Corp)and Ravikant Varani (Managing Director, 1898 & Co., a part of Burns & McDonnell)
+          </div>
+          <div class="col-sm-3">
+            <!-- <a href="https://docs.google.com/presentation/d/12e1sxpIHf1mICBM6xSjnnCluqbAZQcE1cxS9P-yykdk/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>  -->
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Power Distribution iupui (Advanced Power System Distribution Modeling and Analysis) -->
 <div class="card mt-3">
   <div class="p-3">
