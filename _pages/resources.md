@@ -6,7 +6,7 @@ description: A list of resources for power system engineers and applied mathemat
 nav: false
 nav_order: 4
 ---
-###### :computer: The following lists some of the open source power system tools that might be helpful for students and academic researchers. 
+###### :computer: The following lists some of the open source power system tools that might be helpful for students and academic researchers (If you are working in the industry, you will probably not need any of these!). 
 
 1. Power System Dynamics, DAE modeling, simulation, and control: [ANDES](https://github.com/curent/andes)
 2. Steady state power flow simulation and optimization for MATLAB and Octave: [MATPOWER](https://github.com/MATPOWER/matpower)
@@ -37,4 +37,7 @@ Yoash Levron & Prof Juri Belikov. I recommend these four lectures for a begineer
 16. A protection book from GE Grid Solutions, available completely for free! [GE: Protection Book](https://rpa.energy.mn/wp-content/uploads/2016/07/network-protection-and-automation-guide-book.pdf)
 
 
+###### Miscellaneous:
 
+1. Excellent Power System Interview Questions for entry level positions by Dr. Hui Zhang. Cheat Code : If you ever happen to  interview with me expect at least one or two questions or some variants from this list! 
+[Hui: Power Systems Engineer Interview Questions](https://www.linkedin.com/pulse/10-questions-you-must-prepare-power-systems-engineer-interview-zhang/)
