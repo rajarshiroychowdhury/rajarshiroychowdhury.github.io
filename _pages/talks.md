@@ -111,7 +111,7 @@ giscus_comments: false
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            Co-Chaired the panel discussion along with Dr. Dongbo Zhao (EATON).
+            Chaired the panel discussion
           </div>
           <div class="col-sm-3">
           </div>
@@ -120,7 +120,7 @@ giscus_comments: false
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-           Panelists include Dr. Henry Huang, Energy Systems Division Director (ANL), Dr. Martha Symko-Davies, Program Manager of Accelerating Clean Energy at Scale (NREL), Dr. Xuan Wu, Manager, Transmission Planning (AES), Dr. Di Shi, Associate Professor (NMSU), Dr. Zhaoyu Wang, Northrop Grumman Associate Professor (ISU), Daniel Arden, Director of Grid Automation Marketing (Eaton).
+           Panelists include Dr. Henry Huang, Energy Systems Division Director (ANL), Dr. Xuan Wu, Manager, Transmission Planning (AES), Dr. Di Shi, Associate Professor (NMSU), Dr. Zhaoyu Wang, Northrop Grumman Associate Professor (ISU), Daniel Arden, Director of Grid Automation Marketing (Eaton).
           </div>
           <div class="col-sm-3">
             <!-- <a href="https://docs.google.com/presentation/d/12e1sxpIHf1mICBM6xSjnnCluqbAZQcE1cxS9P-yykdk/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>  -->
