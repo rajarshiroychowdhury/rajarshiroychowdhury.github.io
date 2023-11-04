@@ -19,13 +19,13 @@ Some of the top journals in the field of power systems that I have reviewed for 
   <li>IEEE Access</li>
 </ul>
 
-Selected List of Mentorship activities (2021 onwards) with their last known position. 
+<!-- Selected List of Mentorship activities (2021 onwards) with their last known position. 
 <ul>
   <li>Adedoyin Inaolaji, PhD (Incoming Asst. Prof, SUNY Buffalo)</li>
   <li>Balaji Guddanti, PhD (Engineer, GE Grid Solutions)</li>
   <li>Clay Stickney, BS, University of Cincinatti</li>
   
-</ul>
+</ul> -->
 
 
 
