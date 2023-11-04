@@ -111,7 +111,7 @@ giscus_comments: false
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            Chaired the panel discussion
+            I chaired the panel discussion
           </div>
           <div class="col-sm-3">
           </div>
