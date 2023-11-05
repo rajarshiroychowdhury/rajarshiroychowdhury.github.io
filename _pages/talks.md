@@ -148,7 +148,7 @@ giscus_comments: false
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            <!-- Co-Chaired the panel discussion along with Dr. Dongbo Zhao (EATON). -->
+            Panel Discussion Chair : Xuan Wu 
           </div>
           <div class="col-sm-3">
           </div>
@@ -157,7 +157,7 @@ giscus_comments: false
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-           Panelists include Rajarshi Roychowdhury, Hui Zhang(Director, New Emerging Technologies, AES Corp)and Ravikant Varani (Managing Director, 1898 & Co., a part of Burns & McDonnell)
+           Panelists include Rajarshi Roychowdhury, Hui Zhang (Director, New Emerging Technologies, AES Corp), Piyasak Poonpun, Sacramento Municipal Utility District (SMUD), and Ravikant Varanasi (Managing Director, 1898 & Co., a part of Burns & McDonnell)
           </div>
           <div class="col-sm-3">
             <!-- <a href="https://docs.google.com/presentation/d/12e1sxpIHf1mICBM6xSjnnCluqbAZQcE1cxS9P-yykdk/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>  -->
