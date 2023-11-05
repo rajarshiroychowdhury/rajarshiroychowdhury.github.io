@@ -111,7 +111,7 @@ giscus_comments: false
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            I chaired the panel discussion
+            Panel Discussion Chair : Rajarshi Roychowdhury
           </div>
           <div class="col-sm-3">
           </div>
