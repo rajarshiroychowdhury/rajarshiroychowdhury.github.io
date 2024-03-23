@@ -6,11 +6,11 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Rajarshi
 middle_name: 
 last_name: Roychowdhury
-email: rroyc@alumni.upenn.edu
+email: contact@rajarshiroychowdhury.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   
   
-keywords:  power system dynamics # add your own keywords or leave empty
+keywords:  power systems, power systems planning, power system operations, power systems control, power system dynamics, energy storage, renewables, IBR, DER # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: site-logo.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -103,7 +103,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  Sending me an email is the best way to reach me!
+  Sending an email is the best way to reach me!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -350,8 +350,8 @@ jekyll-diagrams:
 
 enable_google_analytics:    true  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
-enable_google_verification: false  # enables google site verification
-enable_bing_verification:   false  # enables bing site verification
+enable_google_verification: true  # enables google site verification
+enable_bing_verification:   true  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arrangement
 enable_math:                true   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated

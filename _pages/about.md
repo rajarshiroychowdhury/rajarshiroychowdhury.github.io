@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Power Systems Engineer, Researcher, Applied Mathematician
-subtitle: Power Systems Engineer | Researcher | Consultant | Innovator  
+subtitle: Power Systems Leader | Consultant | Innovator  
 
 profile:
   align: right
