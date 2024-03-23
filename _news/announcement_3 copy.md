@@ -5,7 +5,7 @@ title: Awarded DOE Project on IBR Protection! Project to be led by University of
 date: 2023-05-10 
 # date: Jun 10, 2023
 inline: false
-related_posts: true
+related_posts: false
 ---
 
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
