@@ -7,6 +7,8 @@ dropdown: true
 children: 
     - title: Talks
       permalink: /talks/
+    - title: Professional Activities
+      permalink: /professional_service/      
     - title: Awards
       permalink: /awards/ 
     - title: Resources
