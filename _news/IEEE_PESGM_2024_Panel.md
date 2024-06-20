@@ -2,7 +2,7 @@
 layout: post
 # title: Speaking and co-Chairing a panel at the IEEE-PESGM 2024 in Seattle, WA, San Juan Puerto Rico from 6-9 November, 2023. 
 # date: 2023-07-25 07:59:00-0400
-date: 2023-07-25 
+date: 2024-07-25 
 # date: Jun 10, 2023
 inline: true
 related_posts: false
