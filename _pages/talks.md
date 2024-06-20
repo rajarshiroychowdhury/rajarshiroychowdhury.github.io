@@ -92,6 +92,48 @@ giscus_comments: false
   </div>
 </div> -->
 
+<!-- PES Central Indiana + IUPUI Invited Lecture -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 id="comp210" class="card-title">Synchronous Machine Modeling and Control</h5>
+        <h6 class="card-subtitle font-italic"> Lecture for the IEEE PES Central Indiana Chapter held in IUPUI Campus on 30th April 2024.</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          2024 
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Presenter : Rajarshi Roychowdhury, Host : Xuan Wu, Chair, IEEE Central Indiana
+          </div>
+          <div class="col-sm-3">
+          </div>
+        </div>
+      </li>
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+           The invited presentation included synchronous machine modeling, d-q frame theory, modeling of synchronous machines for power system dynamic simulations.
+          </div>
+          <div class="col-sm-3">
+            <!-- <a href="https://docs.google.com/presentation/d/12e1sxpIHf1mICBM6xSjnnCluqbAZQcE1cxS9P-yykdk/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>  -->
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+
+
+
 
 <!-- ISGT-LA panel discussion -->
 <div class="card mt-3">
