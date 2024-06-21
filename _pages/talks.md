@@ -92,6 +92,88 @@ giscus_comments: false
   </div>
 </div> -->
 
+
+<!-- IEEE T&D 2024 Panel 2 as Speaker (Zhaoyu's Panel) -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 id="comp210" class="card-title">Leveraging Big Data to Improve Distribution Grid Modeling and Operation </h5>
+        <h6 class="card-subtitle font-italic"> Panel Discussion at the IEEE-PES T&D 2024 Conference and Exposition, in Anaheim CA, on May 8, 2024</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          2024 
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Panel Discussion Chair : Zhaoyu Wang
+          </div>
+          <div class="col-sm-3">
+          </div>
+        </div>
+      </li>
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+           Panelists : Matthew Reno, Principal Member of Technical Staff in the Electric Power Systems Research Department at Sandia National Laboratories, Vijay Vittal, Regents Professor, Ira A. Fulton Chair Professor and ASU Foundation Professor in Electric Power Systems at Arizona State University, Rui Yang, senior research engineer in the Power Systems Engineering Center at the National Renewable Energy Laboratory (NREL) and Rajarshi Roychowdhury, Principal Engineer, T&D Adv. Studies at AES US Utilities.  
+          </div>
+          <div class="col-sm-3">
+            <!-- <a href="https://docs.google.com/presentation/d/12e1sxpIHf1mICBM6xSjnnCluqbAZQcE1cxS9P-yykdk/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>  -->
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+
+<!-- IEEE T&D 2024 Panel 1 as Chair-->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 id="comp210" class="card-title">Future of Distribution Planning Studies With DER Aggregation Due To FERC 2222 And Impact on Transmission Studies</h5>
+        <h6 class="card-subtitle font-italic"> Panel Discussion at the IEEE-PES T&D 2024 Conference and Exposition, in Anaheim CA, on May 7, 2024</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          2024 
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Panel Discussion Chair : Rajarshi Roychowdhury
+          </div>
+          <div class="col-sm-3">
+          </div>
+        </div>
+      </li>
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+           Panelists include Dr. Hui Zhang, Director, AES Next, Ravikanth Varanasi, Managing Director at Burns & McDonnell, Dr. Zhaoyu Wang, Northrop Grumman Associate Professor (ISU), Dr. Mohit Singh, Principal Engineer at Commonwealth Edison (ComEd) and Jessie Bauer, Manager of DER Planning & Engineering, Commonwealth Edison (ComEd). 
+          </div>
+          <div class="col-sm-3">
+            <!-- <a href="https://docs.google.com/presentation/d/12e1sxpIHf1mICBM6xSjnnCluqbAZQcE1cxS9P-yykdk/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>  -->
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+
+
 <!-- PES Central Indiana + IUPUI Invited Lecture -->
 <div class="card mt-3">
   <div class="p-3">
