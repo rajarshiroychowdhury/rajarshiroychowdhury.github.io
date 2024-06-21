@@ -309,7 +309,7 @@ giscus_comments: false
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            <!-- I created ~10 in-use quiz questions. -->
+            Presenter : Rajarshi Roychowdhury; Host : Dr. Xuan Wu
           </div>
           <div class="col-sm-3">
           </div>
@@ -347,7 +347,7 @@ giscus_comments: false
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            <!-- I created a Git workshop for the COMP 110 hackathon Hack110. -->
+            Presenter : Rajarshi Roychowdhury, Host : Dr. Mahesh Illindala
           </div>
           <div class="col-sm-3">
             <!-- <a href="https://docs.google.com/presentation/d/1EHSeRvvkmLQSM9iJL0GyXE-p_i4bnn7eMuCr-YWPQ_A/">Slides</a> -->
