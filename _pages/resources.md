@@ -35,6 +35,7 @@ Yoash Levron & Prof Juri Belikov. I recommend these four lectures for a begineer
 14.  Power System Protection, 2nd Edition, by Paul M. Anderson, Charles F. Henville, Rasheek Rifaat, Brian Johnson, Sakis Meliopoulos: [Anderson Book 2nd Edition](https://www.wiley.com/en-us/Power+System+Protection,+2nd+Edition-p-9781119513148)
 15. Power System Protection and Relaying, ECE 525 by Brian K. Johnson. Follows his book that is linked in [15] above : [UIdaho ECE525 Course](https://webpages.uidaho.edu/ece/ee/power/ECE525/)
 16. A protection book from GE Grid Solutions, available completely for free! [GE: Protection Book](https://rpa.energy.mn/wp-content/uploads/2016/07/network-protection-and-automation-guide-book.pdf)
+17. Excellent resources on the distribution side of things, along with actual distribution test feeders : Website of Prof. Zhaoyu Wang from Iowa State University. https://wzy.ece.iastate.edu/Teaching.html  
 
 
 ###### Miscellaneous:
