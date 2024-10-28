@@ -2,7 +2,7 @@
 layout: page
 permalink: /resources/
 title: Resources
-description: A list of resources for power system engineers and applied mathematicians
+description: A list of curated resources for power system researchers, engineers and anyone who wants to learn! 
 nav: false
 nav_order: 4
 ---
