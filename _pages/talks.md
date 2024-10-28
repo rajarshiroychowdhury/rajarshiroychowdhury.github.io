@@ -93,6 +93,62 @@ giscus_comments: false
 </div> -->
 
 
+<!-- IEEE PESGM 2024 Panel as Speaker (Xuan's Panel) -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 id="comp210" class="card-title">Transmission Planning with High Penetration of Inverter Based Resources – Utility Experience and Challenges </h5>
+        <h6 class="card-subtitle font-italic"> Panel Discussion at the IEEE PESGM 2024 Conference in Seattle, WA, on July 25, 2024</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          2024 
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Panel Discussion Chair : Dr. Xuan Wu
+          </div>
+          <div class="col-sm-3">
+          </div>
+        </div>
+      </li>
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+           Panelists : Rajarshi Roychowdhury, Principal Engineer, T&D Adv. Studies at AES US Utilities, Anish Gaikwad, Deputy Director, EPRI, Song Wang, Principal Engineer, Portland Gas & Electric, and Feng Qiu, Principal Computational Scientist and a Section Leader at Argonne National Laboratory (ANL).    
+          </div>
+          <div class="col-sm-3">
+            <!-- <a href="https://docs.google.com/presentation/d/12e1sxpIHf1mICBM6xSjnnCluqbAZQcE1cxS9P-yykdk/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>  -->
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- IEEE T&D 2024 Panel 2 as Speaker (Zhaoyu's Panel) -->
 <div class="card mt-3">
   <div class="p-3">
