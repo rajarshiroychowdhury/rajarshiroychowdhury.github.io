@@ -4,5 +4,5 @@ permalink: /cv/
 title: R&#233sum&#233
 nav: true
 nav_order: 5
-cv_pdf: Resume_Raj_Oct2024.pdf
+cv_pdf: Raj_Resume_webcopy_April2025.pdf
 ---
