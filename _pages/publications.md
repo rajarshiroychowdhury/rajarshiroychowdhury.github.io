@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: A list of scholarly research and patents with collaborators in reversed chronological order. 
-years: [2024,2023,2022,2021,2018]
+description: A list of scholarly research and patents in reversed chronological order. 
+years: [2025,2024,2023,2022,2021,2018]
 nav: true
 nav_order: 1
 ---
