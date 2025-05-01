@@ -21,14 +21,36 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there! This is Rajarshi (রাজর্ষি). I understand that my name can be difficult to pronounce, :smile: so feel free to chop everything after the first three letters and just call me Raj! By the way, if you are interested, the meaning of 'Rajarshi' in Bengali (বাংলা) loosely translates to 'a king who has characteristics of a saint'. 
+Hi there! This is Rajarshi (রাজর্ষি). I know my name can be a mouthful 😄 — so feel free to call me **Raj**. And if you're curious, the name ‘Rajarshi’ in Bengali (বাংলা) loosely translates to “a king who has the qualities of a sage.”
 
-As for work, I am an industry expert in the field of bulk power system planning, stability and control. With a decade of experience in power systems and advanced controls I have had the opportunity to contribute to high-impact projects that had significant strategic importance. Currently, I'm a Technical Leader at the Electric Power Research Institute (EPRI), where I provide technical leadership for an array of consulting and applied R&D projects for utilities around North America and also globally. Previously, I led the T&D Advanced Studies team for the two AES US Utilities, in Dayton (AES Ohio aka Dayton Power & Light) and in Indiana (AES Indiana aka Indianapolis Power & Light) leading all long term planing, stability, EMT and facility interconnection studies that led to the development of large scale transmission projects in the states of Ohio and Indiana, United States. These projects not only enhanced regional energy reliability but also significantly contributed to local economies by creating jobs, driving business for local industries, and attracting investments. I was also heavily involved in R&D activities with universities, national labs and other public and private entities to develop and test new grid technologies and was awarded multiple US Department of Energy Awards to deploy and demonstrate new grid technologies. I have also regularly provided subject matter expertise to a wide variety of industry stakeholder groups in North America, including PJM, NERC and WECC. Before joining AES Utilities, I worked at Ford Motor Company, in Dearborn, MI, as a Research Engineer where I helped to develop Ford's next-gen electrical architecture for some of its best selling global nameplates like F-150, and the Mustang Mach-E. I am also a licensed Professional Engineer (PE) in the state of Ohio, United States. 
+---
 
+### A bit about my work…
 
- If you are an industry professional and wish to connect, for a technical webinar or pick my brain on a topic related to power systems, send me an email (Link at the bottom). Whether you're interested in discussing cutting-edge grid technologies, exploring solutions for renewable integration, or addressing power system stability challenges, I am always open to collaborative dialogues, webinars, podcasts, or interviews. 
+I’m a **grid modernization and power systems strategy leader** with over a decade of experience in **bulk power system planning, interconnection, stability, and advanced controls**.
 
- I invite you to explore my website, where you'll find some of my insights, projects, resources, and updates in the field of power systems. Whether you're an industry professional, researcher, or simply curious about the remarkable intricacies of power grids, I hope you find inspiration and valuable information within these virtual walls. Feel free to connect with me on LinkedIn (link at the bottom of this page) or send me an email to say 'Hi' (Link at the bottom). 
+Currently, I serve as a **Technical Leader** at the **Electric Power Research Institute (EPRI)**, where I lead consulting and applied R&D projects for utility clients across North America and globally. My role involves working closely with system planners, operators, and policymakers to help modernize the grid, enable clean energy integration, and ensure stability and reliability in a fast-changing landscape.
+
+Previously, I led the **T&D Advanced Studies** team for AES US Utilities — including **AES Ohio** and **AES Indiana** — where I oversaw long-term planning, stability, EMT, and interconnection studies. These efforts helped shape strategic transmission investments that not only strengthened regional reliability but also supported economic development across the Midwest.
+
+Before that, I was at **Ford Motor Company**, helping architect next-generation electrical systems for the **F-150** and **Mustang Mach-E**. And somewhere along the way, I picked up a **Professional Engineer (PE) license** in Ohio, collaborated on multiple **DOE-funded projects**, and contributed to working groups across **PJM, NERC, WECC**, and **IEEE**.
+
+---
+
+### What I enjoy
+
+I'm passionate about translating technical problems into practical, scalable solutions — whether it's decarbonization, resilience planning, or understanding the physics of the grid. I also love mentoring early-career engineers, speaking at webinars, and being part of honest, nerdy conversations about where the power sector is headed.
+
+---
+
+### Let’s connect
+
+If you’re an industry professional — whether you’re exploring **renewable integration**, **transmission planning**, or just want to pick my brain on grid topics — feel free to reach out.
+
+You can [send me an email](mailto:contact@rajarshiroychowdhury.com), connect on [LinkedIn](https://www.linkedin.com/in/raj1729), or explore the rest of this site for projects, posts, and resources.
+
+Cheers,  
+**Raj**
 
  <!-- <p><a href="professional_service/">HTML Images</a></p> -->
 
