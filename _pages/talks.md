@@ -105,7 +105,7 @@ giscus_comments: false
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
-          2024 
+          2025 
         </span>
       </div>
     </div>
