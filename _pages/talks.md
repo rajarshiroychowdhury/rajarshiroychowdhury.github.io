@@ -113,7 +113,8 @@ giscus_comments: false
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            Panel Discussion Chair : Dr. Xuan Wu
+            Panel Discussion Chair : Dr. Xuan Wu, Director, Pedernales Electric Cooperative, Inc. (PEC), Texas
+
           </div>
           <div class="col-sm-3">
           </div>
