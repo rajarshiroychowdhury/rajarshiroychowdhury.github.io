@@ -198,11 +198,6 @@ blockquote {
 
 .card {
   background-color: var(--global-card-bg-color);
-  /**
-   * For teaching / talks page
-   * Source: https://maruan.alshedivat.com/assets/css/main.css
-   */
-  /* Modified --global-bg-color (the color used in Maruan's site) to --global-card-bg-color. */
 }
 .card img {
   width: 100%;
@@ -217,6 +212,13 @@ blockquote {
 .card .card-item .row {
   display: flex;
   align-items: center;
+}
+.card {
+  /**
+   * For teaching / talks page
+   * Source: https://maruan.alshedivat.com/assets/css/main.css
+   */
+  /* Modified --global-bg-color (the color used in Maruan's site) to --global-card-bg-color. */
 }
 .card .list-group-item {
   background-color: var(--global-card-bg-color);
