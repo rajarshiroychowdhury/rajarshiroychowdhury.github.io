@@ -38,7 +38,7 @@ Prior to EPRI, I led the **Transmission & Distribution Advanced Studies team for
 
 Earlier in my career, I worked at Ford Motor Company, where I helped design and architect next-generation electrical systems for flagship vehicles including the F-150 and Mustang Mach-E — experiences that deepened my understanding of complex system integration and electrification challenges. 
 
-Throughout my career, I’ve built and mentored **high-performing technical teams**, guided **cross-functional collaboration**, and contributed to industry leadership efforts through organizations such as PJM, MISO, NERC, NATF, and IEEE. I am also a licensed Professional Engineer (PE) in the state of Ohio.
+Throughout my career, I’ve built and mentored **high-performing technical teams**, guided **cross-functional collaboration**, and contributed to industry leadership efforts through organizations such as PJM, MISO, WECC, NERC, NATF, and IEEE. I am also a licensed Professional Engineer (PE) in the state of Ohio.
 
 ---
 
