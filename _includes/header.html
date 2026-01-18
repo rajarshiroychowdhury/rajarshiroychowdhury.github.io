@@ -15,6 +15,9 @@
           {%- if site.last_name -%}
             {{- site.last_name -}}
           {%- endif -%}
+          {%- if site.name_suffix -%}
+            <span class="font-weight-lighter">, {{ site.name_suffix }}</span>
+          {%- endif -%}
         {%- else -%}
           {{- site.title -}}
         {%- endif -%}
