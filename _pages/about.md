@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Power Systems Engineer, Researcher, Applied Mathematician
-subtitle: Power Systems Technical Leader | Professional Engineer | Consultant | Innovator  
+subtitle: Power Systems Leader | Utility Strategy & Advisory 
 
 profile:
   align: right
@@ -21,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there! This is Rajarshi (রাজর্ষি). I know my name can be a mouthful 😄 — so feel free to call me **Raj**. And if you're curious, the name ‘Rajarshi’ in Bengali (বাংলা) loosely translates to “a king who has the qualities of a sage.”
+Hi there! This is Rajarshi (রাজর্ষি). I know my name can be a mouthful 😄 — so feel free to call me **Raj**. And if you're curious, the name ‘Rajarshi’ in my native language, Bengali (বাংলা) loosely translates to “a king who has the qualities of a sage.”
 
 ---
 
