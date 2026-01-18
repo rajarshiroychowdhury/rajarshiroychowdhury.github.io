@@ -27,7 +27,7 @@ Hi there! This is Rajarshi (রাজর্ষি). Many people call me **Raj**.
 
 ### A bit about my work…
 
-I’m a **grid modernization and power systems strategy leader** with over a decade of experience in **bulk power system planning, interconnection, stability, and operational planning strtegies.**.
+I’m a **grid modernization and power systems strategy leader** with over a decade of experience in **bulk power system planning, interconnection, stability, and operational planning strategies.**.
 
 Currently, I serve as the **Manager of Transmission Planning** at **Xcel Energy’s western footprint (Public Service Company of Colorado – PSCo)**, where I lead long-term transmission planning and regional reliability studies across Colorado and the broader Western Interconnection. My responsibilities include overseeing technically rigorous planning analyses, coordinating with transmission owners and regional entities, and supporting decision-making processes that align reliability requirements, policy objectives, and evolving resource portfolios. My team’s work informs major transmission investment decisions and supports regulatory review through transparent assumptions, defensible methodologies, and clear communication of system impacts.
 
