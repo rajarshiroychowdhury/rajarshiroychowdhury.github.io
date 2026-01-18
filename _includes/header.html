@@ -7,21 +7,22 @@
           {% if page.permalink != '/' -%}
           <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
             {%- if site.title == "blank" -%}
-              {%- if site.first_name -%}
-                <span class="font-weight-bold">{{- site.first_name -}}&nbsp;</span>
-              {%- endif -%}
-              {%- if site.middle_name -%}
-                {{- site.middle_name -}}&nbsp;
-              {%- endif -%}
-              {%- if site.last_name -%}
-                {{- site.last_name -}}
-              {%- endif -%}
-              {%- if site.name_suffix -%}
-                , {{- site.name_suffix -}}
-              {%- endif -%}
-            {%- else -%}
-              {{- site.title -}}
-            {%- endif -%}
+  {%- if site.first_name -%}
+    <span class="font-weight-bold">{{ site.first_name }}&nbsp;</span>
+  {%- endif -%}
+  {%- if site.middle_name -%}
+    {{ site.middle_name }}&nbsp;
+  {%- endif -%}
+  {%- if site.last_name -%}
+    {{ site.last_name }}
+  {%- endif -%}
+  {% if site.name_suffix %}
+    <span class="font-weight-lighter">, {{ site.name_suffix }}</span>
+  {% endif %}
+{%- else -%}
+  {{ site.title }}
+{%- endif -%}
+
           </a>
           {%- elsif site.enable_navbar_social -%}
           <!-- Social Icons -->
