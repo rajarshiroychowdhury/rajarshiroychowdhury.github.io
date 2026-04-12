@@ -114,7 +114,7 @@ giscus_comments: false
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">
         <div class="row">
-          <div class="col-sm-9">
+          <div class="col-sm-10">
             Panel Discussion Chair : Dr. Rajarshi Roychowdhury, Manager, Transmission Planning, Xcel Energy
 
           </div>
