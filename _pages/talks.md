@@ -95,6 +95,56 @@ giscus_comments: false
 
 
 
+
+
+<!-- IEEE Greentech 2026 Panel as Chair -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 id="comp210" class="card-title">Planning and Operating the Future Grid with Large Loads, Flexibility & Storage</h5>
+        <h6 class="card-subtitle font-italic"> Panel Discussion at the IEEE Greentech 2026  Conference in Boulder, CO on March 26, 2026</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          2025 
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Panel Discussion Chair : Dr. Rajarshi Roychowdhury, Manager, Transmission Planning, Xcel Energy
+
+          </div>
+          <div class="col-sm-3">
+          </div>
+        </div>
+      </li>
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+           Panelists : Dr. Harsha Padullaparti, Senior Enineer, Transmission Planning, Xcel Energy, Jens Schoene, Director, E3.    
+          </div>
+          <div class="col-sm-3">
+            <!-- <a href="https://docs.google.com/presentation/d/12e1sxpIHf1mICBM6xSjnnCluqbAZQcE1cxS9P-yykdk/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a>  -->
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
 <!-- IEEE PESGM 2025 Panel as Speaker (Xuan's Panel) -->
 <div class="card mt-3">
   <div class="p-3">
