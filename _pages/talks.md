@@ -162,7 +162,7 @@ giscus_comments: false
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">
         <div class="row">
-          <div class="col-sm-9">
+          <div class="col-sm-10">
             Panel Discussion Chair : Dr. Xuan Wu, Director, Pedernales Electric Cooperative, Inc. (PEC), Texas
 
           </div>
@@ -172,7 +172,7 @@ giscus_comments: false
       </li>
       <li class="list-group-item">
         <div class="row">
-          <div class="col-sm-9">
+          <div class="col-sm-10">
            Panelists : Mohammad Shahidehpour, Carl Bodine Distinguished Professor and Chairman of the Electrical and Computer Engineering Department at Illinois Institute of Technology, Chicago, Rajarshi Roychowdhury, Technical Leader, EPRI, Zhaoyu Wang, Professor, Iowa State University, Prudhvi Anand Bhattiprolu, Manager T&D Standards, AES US Utilities & Thinesh Devadhas Mohanadhas, Principal Engineer, ERCOT.    
           </div>
           <div class="col-sm-3">
@@ -224,8 +224,8 @@ giscus_comments: false
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">
         <div class="row">
-          <div class="col-sm-9">
-            Panel Discussion Chair : Dr. Xuan Wu
+          <div class="col-sm-10">
+            Panel Discussion Chair : Dr. Xuan Wu, AES US Utilities
           </div>
           <div class="col-sm-3">
           </div>
@@ -233,7 +233,7 @@ giscus_comments: false
       </li>
       <li class="list-group-item">
         <div class="row">
-          <div class="col-sm-9">
+          <div class="col-sm-10">
            Panelists : Rajarshi Roychowdhury, Principal Engineer, T&D Adv. Studies at AES US Utilities, Anish Gaikwad, Deputy Director, EPRI, Song Wang, Principal Engineer, Portland Gas & Electric, and Feng Qiu, Principal Computational Scientist and a Section Leader at Argonne National Laboratory (ANL).    
           </div>
           <div class="col-sm-3">
@@ -280,8 +280,8 @@ giscus_comments: false
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">
         <div class="row">
-          <div class="col-sm-9">
-            Panel Discussion Chair : Zhaoyu Wang
+          <div class="col-sm-10">
+            Panel Discussion Chair : Dr. Zhaoyu Wang, Professor, Iowa State University
           </div>
           <div class="col-sm-3">
           </div>
@@ -289,7 +289,7 @@ giscus_comments: false
       </li>
       <li class="list-group-item">
         <div class="row">
-          <div class="col-sm-9">
+          <div class="col-sm-10">
            Panelists : Matthew Reno, Principal Member of Technical Staff in the Electric Power Systems Research Department at Sandia National Laboratories, Vijay Vittal, Regents Professor, Ira A. Fulton Chair Professor and ASU Foundation Professor in Electric Power Systems at Arizona State University, Rui Yang, senior research engineer in the Power Systems Engineering Center at the National Renewable Energy Laboratory (NREL) and Rajarshi Roychowdhury, Principal Engineer, T&D Adv. Studies at AES US Utilities.  
           </div>
           <div class="col-sm-3">
@@ -320,8 +320,8 @@ giscus_comments: false
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">
         <div class="row">
-          <div class="col-sm-9">
-            Panel Discussion Chair: Rajarshi Roychowdhury, PE
+          <div class="col-sm-10">
+            Panel Discussion Chair: Rajarshi Roychowdhury, Principal Engineer, AES US Utilities
           </div>
           <div class="col-sm-3">
           </div>
@@ -329,7 +329,7 @@ giscus_comments: false
       </li>
       <li class="list-group-item">
         <div class="row">
-          <div class="col-sm-9">
+          <div class="col-sm-10">
            Panelists include Dr. Hui Zhang, Director, AES Next, Ravikanth Varanasi, Managing Director at Burns & McDonnell, Dr. Zhaoyu Wang, Northrop Grumman Associate Professor (ISU), Dr. Mohit Singh, Principal Engineer at Commonwealth Edison (ComEd) and Jessie Bauer, Manager of DER Planning & Engineering, Commonwealth Edison (ComEd). 
           </div>
           <div class="col-sm-3">
@@ -361,7 +361,7 @@ giscus_comments: false
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">
         <div class="row">
-          <div class="col-sm-9">
+          <div class="col-sm-10">
             Presenter : Rajarshi Roychowdhury, Host : Xuan Wu, Chair, IEEE Central Indiana
           </div>
           <div class="col-sm-3">
@@ -405,7 +405,7 @@ giscus_comments: false
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            Panel Discussion Chair : Rajarshi Roychowdhury
+            Panel Discussion Chair : Rajarshi Roychowdhury, Principal Engineer, AES US Utilities
           </div>
           <div class="col-sm-3">
           </div>
@@ -413,7 +413,7 @@ giscus_comments: false
       </li>
       <li class="list-group-item">
         <div class="row">
-          <div class="col-sm-9">
+          <div class="col-sm-10">
            Panelists include Dr. Henry Huang, Energy Systems Division Director (ANL), Dr. Xuan Wu, Manager, Transmission Planning (AES), Dr. Di Shi, Associate Professor (NMSU), Dr. Zhaoyu Wang, Northrop Grumman Associate Professor (ISU), Daniel Arden, Director of Grid Automation Marketing (Eaton).
           </div>
           <div class="col-sm-3">
@@ -442,7 +442,7 @@ giscus_comments: false
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            Panel Discussion Chair : Xuan Wu 
+            Panel Discussion Chair : Dr. Xuan Wu 
           </div>
           <div class="col-sm-3">
           </div>
@@ -450,7 +450,7 @@ giscus_comments: false
       </li>
       <li class="list-group-item">
         <div class="row">
-          <div class="col-sm-9">
+          <div class="col-sm-10">
            Panelists include Rajarshi Roychowdhury, Hui Zhang (Director, New Emerging Technologies, AES Corp), Piyasak Poonpun, Sacramento Municipal Utility District (SMUD), and Ravikant Varanasi (Managing Director, 1898 & Co., a part of Burns & McDonnell)
           </div>
           <div class="col-sm-3">
