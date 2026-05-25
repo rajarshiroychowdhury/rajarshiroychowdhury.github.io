@@ -36,7 +36,7 @@ Previously, I served as a **Technical Leader** at the **Electric Power Research 
 
 Prior to EPRI, I led the **Transmission & Distribution Advanced Studies team for AES US Utilities**, encompassing AES Ohio and AES Indiana, overseeing long-term planning, system stability analysis, electromagnetic transient (EMT) studies, and interconnection assessments. This work supported capital planning decisions, enhanced regional reliability, and informed regulatory filings and stakeholder processes. Earlier in my career, I worked at Ford Motor Company, contributing to the design of next-generation vehicle electrical systems, which strengthened my perspective on electrification and complex system integration.
 
-Throughout my career, I’ve built and mentored **high-performing technical teams**, guided **cross-functional collaboration**, and contributed to industry leadership efforts through organizations such as PJM, MISO, WECC, NERC, NATF, and IEEE. I hold an M.S. in Electrical Engineering from the University of Pennsylvania, and an M.S. and Ph.D. from The Ohio State University, in power system dynamics, stability, and control. I am a licensed Professional Engineer (PE) in the State of Ohio, United States.
+Throughout my career, I’ve built and mentored **high-performing technical teams**, guided **cross-functional collaboration**, and contributed to industry leadership efforts through organizations such as PJM, MISO, WECC, NERC, NATF, and IEEE. I hold an M.S. in Electrical Engineering from the University of Pennsylvania, and an M.S. and Ph.D. from The Ohio State University, in power system dynamics, stability, and control. I am a licensed Professional Engineer (PE) in the State of Ohio, and Colorado, United States.
 
 ---
 
