@@ -7,7 +7,7 @@ subtitle: Power Systems Leader | Utility Strategy & Advisory
 
 profile:
   align: right
-  image: website_photo.jpg
+  image: website_photo.png
   image_circular: false # crops the image to make it circular
   address: >
 #    <p> Office Address: </p>
